@@ -2,9 +2,9 @@
 ## NPM, GULP, SCSS, BOWER
 ---
 ### Требования
-Должены быть установленны [NodeJS](https://nodejs.org), NPM, [GIT](https://git-scm.com/), [Gulp](http://gulpjs.com/) и [Bower](https://bower.io/)
+Должены быть установленны [NodeJS](https://nodejs.org), npm, [GIT](https://git-scm.com/), [Gulp](http://gulpjs.com/) и [Bower](https://bower.io/)
 ### Установка
-Для установки скопируйте или скачаqnt репозиторий [https://github.com/Raynhour/GulpBolierplate.git](https://github.com/vintkor/Web-tamplete.git) и запустите команды 
+Для установки скопируйте или скачайте репозиторий [https://github.com/lord-dantes/pug-scss-start_v2.0](https://github.com/lord-dantes/pug-scss-start_v2.0) и запустите команды
 ```
 npm install
 ```
@@ -18,4 +18,5 @@ bower install
 gulp watch
 ```
 ## Лицензия
-Данный репозиторий можно использовать и изменять для любых цtлей как коммерческих так и не коммерческих.
+Данный репозиторий можно использовать и изменять для любых целей как коммерческих так и не коммерческих.
+Prod. gofriends-academy
