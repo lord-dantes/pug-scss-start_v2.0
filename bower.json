@@ -1,0 +1,23 @@
+{
+  "name": "thamplate",
+  "description": "Web template for start project",
+  "main": "index.js",
+  "authors": [
+    "Volodymyr Kopynets"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3",
+    "jquery": "^3"
+  }
+}
